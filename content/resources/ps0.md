@@ -5,6 +5,7 @@ description: This resource contains the ways to edit,run and test Java code incl
   same.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-092-java-preparation-for-6-170-january-iap-2006/d3bbb6759e1bf179a8f56545d69b99e7_ps0.pdf
 file_type: application/pdf
+parent_uid: b1228b38-91a3-d496-98ec-772ddcb47c9d
 resourcetype: Document
 title: ps0.pdf
 uid: d3bbb675-9e1b-f179-a8f5-6545d69b99e7

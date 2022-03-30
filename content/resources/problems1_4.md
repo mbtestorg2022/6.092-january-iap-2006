@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains four problems based on Java basics.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-092-java-preparation-for-6-170-january-iap-2006/af53955a26427bce946706eec5a9bf33_problems1_4.pdf
 file_type: application/pdf
+parent_uid: c76c3609-11f2-a073-ecc1-fdfd622e1fed
 resourcetype: Document
 title: problems1_4.pdf
 uid: af53955a-2642-7bce-9467-06eec5a9bf33
